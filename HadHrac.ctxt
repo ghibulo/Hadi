@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=startPoziceX\ startPoziceY\ pole\ barva
+comment0.target=HadHrac(int,\ int,\ PoleHry,\ java.awt.Color)
+comment1.params=
+comment1.target=Smer\ hrej()
+numComments=2

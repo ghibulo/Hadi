@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=startPoziceX\ startPoziceY\ pole\ barva
+comment0.target=Had(int,\ int,\ PoleHry,\ java.awt.Color)
+comment1.params=jakouX\ jakouY
+comment1.target=void\ nastavPozici(int,\ int)
+comment2.params=jakou
+comment2.target=void\ nastavPozici(Souradnice)
+comment3.params=kamx\ kamy
+comment3.target=void\ SouradniceVyhodnotVzdalenost(int,\ int)
+comment4.params=
+comment4.target=void\ hledejNejblizsiPotravu()
+comment5.params=
+comment5.target=Smer\ hrej()
+numComments=6

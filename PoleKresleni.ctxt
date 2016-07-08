@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PoleKresleni()
+comment1.params=
+comment1.target=void\ posunHadu()
+comment2.params=
+comment2.target=void\ zakresliInit()
+comment3.params=
+comment3.target=void\ zakresli()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6
